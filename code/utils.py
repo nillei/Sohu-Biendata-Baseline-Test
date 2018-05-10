@@ -84,3 +84,4 @@ def text2word(input_data, sep_txt_name, org_txt_name):
     text_all_sep = f1.readlines()
 
     return text_all_sep
+
